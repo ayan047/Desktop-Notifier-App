@@ -1,19 +1,42 @@
-# Desktop-Notifier-App
-The project contains a desktop reminder app using python modules such as plyer and pillow. After running the app the app will show you a GUI that contains the ‘Title to Notify’, ‘Display Message’ and ‘Set Timer’. The user have to set the timer that when he is going to get the reminder notification. After setting up all the fields the user will get the pop up notification at the given time.
+# ⏰ Desktop Reminder App Using Python
 
-Technology Used:
+🔔 **Never miss an important task, event, or appointment again!**
 
+## 🎯 Project Overview
 
-Python Plyer Module
+This project is a simple and user-friendly **Desktop Reminder Application** built with Python. It allows users to schedule personalized reminders through a graphical user interface (GUI), without needing to modify the source code or manually configure timers.
 
-Python Pillow Module
+Once the application is launched, users can enter a notification title, write a custom message, and set a timer. When the specified time is reached, the application displays a pop-up notification to remind the user of their scheduled task. 🖥️✨
 
-Tkinter package for the GUI
+## ✨ Key Features
 
+- 📝 **Custom Notification Title:** Set a personalized title for every reminder.
+- 💬 **Custom Message:** Add a message describing the task or event.
+- ⏳ **Flexible Timer:** Choose when you want to receive your reminder.
+- 🔔 **Desktop Notifications:** Receive a pop-up notification when the timer expires.
+- 🖥️ **User-Friendly GUI:** Easily configure reminders without editing the code.
+- ⚙️ **Personalized Settings:** Customize reminder details according to your needs.
 
-Responsibilities:
+## 🛠️ Technologies Used
 
+- 🐍 **Python** — Core programming language.
+- 🔔 **Plyer** — For displaying desktop notifications.
+- 🖼️ **Pillow (PIL)** — For image processing and image-related GUI elements.
+- 🪟 **Tkinter** — For building the graphical user interface.
 
-Making a GUI so that the user wont be needing to set the timer inside the code.
+## 👨‍💻 Project Responsibilities
 
-User customization at the reminder settings.
+- 🖥️ Designed and developed a GUI for convenient reminder configuration.
+- ⏱️ Implemented timer functionality to schedule notifications.
+- 📝 Enabled users to customize notification titles and messages.
+- 🔔 Integrated desktop pop-up notifications using the Plyer module.
+- ⚙️ Made the application easy to use without requiring changes to the source code.
+
+## 🎯 Project Objective
+
+The primary objective of this project is to develop a lightweight and accessible reminder tool that helps users manage their daily tasks and stay organized through customizable, time-based desktop notifications.
+
+## 🚀 Stay Organized. Stay Productive!
+
+⭐ If you find this project useful, don't forget to give the repository a star!
+
