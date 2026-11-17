@@ -1,3 +1,5 @@
+<img width="1377" height="768" alt="image" src="https://github.com/user-attachments/assets/230c386a-b246-4f7d-b29e-af121989fc75" />
+
 # ⏰ Desktop Reminder App Using Python
 
 🔔 **Never miss an important task, event, or appointment again!**
